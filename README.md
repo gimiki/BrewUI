@@ -2,7 +2,7 @@
 
 User interface for the [BrewCore](https://github.com/brewfactory/BrewCore) project.
 
-[Codeship status for gimiki/BrewUI](https://codeship.com/projects/3be8b7f0-b6b3-0132-2991-5a80fed4d730/status?branch=master)
+[Codeship status for gimiki/BrewUI](https://codeship.com/projects/3be8b7f0-b6b3-0132-2991-5a80fed4d730/status?branch=master)(https://codeship.com/projects/71105)
 
 ## Goal
 Having a common responsive controlling interface for the [Brewfactory](http://brewfactory.org)
